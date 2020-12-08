@@ -4,12 +4,13 @@
   if (codigo==1){
     var litros=prompt("Quantos Litros Você Quer Abastecer?");
     var preco=litros*3.16;
-  else{
-  if{
+  }else{
+  if (codigo==2){
     var litros=prompt("Quantos Litros Você Quer Abastecer?");
   var preco=litros*4.19;
   }}
   else{
     alert("Você digitou o código errado!");
+  }
 
 </script>
